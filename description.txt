@@ -1,0 +1,16 @@
+This program consists of various function, it starts with the main menu where it gives three options if the programs ask/
+ the user to input an option.
+There is are help function that reads the text files and reorders them according to a nested list of a musical note and/
+ the adjacent number to that note. Also, a different function changes the musical note to the appropriate frequency of /
+ that note. A different function calculates the sample rate.
+The first option(takes a wave file then changes its audio data according to the user's inputs):
+The programs ask to give input the name of a "wave" file to change it, afterward, it asks for other options, which the /
+program when chosen, goes to help function, which we already have written that corresponds with what is ordered by the /
+user. Then if the user chooses to end the changes it asks to input a new name to save the file.
+The second option(takes a text file calculates its sample then turns it to a "wave" file and does changes according to /
+the user's inputs) :
+The programs ask to give input the name of a "text" file to change it, afterward, it asks for other options, which the/
+ program when chosen, goes to help function, which we already have written that corresponds with what is ordered by the /
+ user. Then if the user chooses to end the changes it asks to input a new name to save the file.
+The third option:
+It exists the program
